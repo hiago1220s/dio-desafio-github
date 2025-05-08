@@ -1,0 +1,18 @@
+Decomposição:
+Problema: Fazer um bolo.
+Solução: Dividir em etapas — comprar ingredientes, preparar a massa, assar, etc.
+Isso é decompor um problema em partes menores.
+
+Reconhecimento de padrões:
+Problema: Resolver várias operações matemáticas com números pares.
+Solução: Perceber que todos os números pares terminam em 0, 2, 4, 6, 8.
+Facilita criar regras para resolver problemas parecidos.
+
+Abstração:
+Problema: Criar um programa de cadastro de usuários.
+Solução: Focar nos dados essenciais como nome, email e senha — ignorar o que não importa agora.
+Ajuda a simplificar o problema.
+
+Algoritmos:
+Exemplo: Passo a passo para trocar uma lâmpada: desligar luz, pegar escada, subir, tirar lâmpada velha, colocar nova, testar.
+Isso é criar um algoritmo.
