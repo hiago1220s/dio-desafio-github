@@ -1,0 +1,3 @@
+O comando git init é usado para criar um novo repositório Git local. Ele não cria um repositório no GitHub — isso exige outras etapas, como usar git remote add e git push
+git download.
+https://git-scm.com/downloads
